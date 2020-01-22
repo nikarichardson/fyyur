@@ -38,7 +38,7 @@ First, [install Flask](http://flask.pocoo.org/docs/1.0/installation/#install-fla
   $ sudo pip3 install Flask
   ```
 
-To start and run the local development server,
+To start and run the local development server, follow the instructions below.
 
 1. Initialize and activate a virtualenv:
   ```
@@ -59,4 +59,7 @@ To start and run the local development server,
   $ python3 app.py
   ```
 
-4. Navigate to Home page [http://localhost:5000](http://localhost:5000)
+4. Navigate to Home page:
+ ```
+[http://localhost:5000](http://localhost:5000)
+ ```
