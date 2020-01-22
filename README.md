@@ -3,13 +3,11 @@ Fyyur
 
 ### Introduction
 
+<img src="https://66.media.tumblr.com/49411ac59c835bac04406df4fac3e1ba/e9e1261d91147bfa-37/s1280x1920/293b666dc0da49943ab798d34d5b1d72959a5f08.png" align="right">
+
 Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner.
 
-<img src="https://66.media.tumblr.com/2eb86400f7faba5c7b3991425bbd4cad/9098144b8c09ea53-3b/s1280x1920/7dcac2fda9fcb9e8a0e6087160e588accde2c8bf.png" align="right">
-
-
-
-### Completed Work 
+### Summary 
 
 * normalized models developed in `app.py`
 * form submissions implemented for new Venues, Artists, and Shows
