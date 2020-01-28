@@ -26,7 +26,7 @@ migrate = Migrate(app, db)
 
 # COMPLETED TODO: connect to a local postgresql database
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-SQLALCHEMY_DATABASE_URI = 'postgres://nikarichardson:Aveyond000@127.0.0.1:5432/fyyurapp'
+SQLALCHEMY_DATABASE_URI = 'postgres://nikarichardson:password@127.0.0.1:5432/fyyurapp'
 app.config['SQLALCHEMY_DATABASE_URI'] = SQLALCHEMY_DATABASE_URI 
 
 #----------------------------------------------------------------------------#
